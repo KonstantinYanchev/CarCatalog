@@ -1,0 +1,8 @@
+.me-auto a {
+    text-decoration: none;
+    color: black;
+}
+
+.me-auto a:hover {
+    font-weight: 600;
+}
